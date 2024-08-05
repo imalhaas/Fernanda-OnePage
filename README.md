@@ -1,6 +1,7 @@
-<h1>images of how it looks</h1>
+<h1>Project</h1>
 
-<img width="1440" alt="Captura de Tela 2024-08-01 às 15 56 54" src="https://github.com/user-attachments/assets/de8eab55-22d0-4318-bcf2-f4e8f82d191c">
-<img width="1440" alt="Captura de Tela 2024-08-01 às 15 56 58" src="https://github.com/user-attachments/assets/ef9359e2-1085-4881-af52-b085a9e946fd">
-<img width="525" alt="Captura de Tela 2024-08-01 às 15 57 09" src="https://github.com/user-attachments/assets/35383aa9-bc72-435a-adc3-3c4637f48a6f">
-<img width="523" alt="Captura de Tela 2024-08-01 às 15 57 14" src="https://github.com/user-attachments/assets/e708f95b-09c4-4e20-b72a-fae00be7a63c">
+<img width="1428" alt="Captura de Tela 2024-08-05 às 14 44 28" src="https://github.com/user-attachments/assets/c16a78e2-de83-47f8-b7af-4605093fb233">
+<img width="1433" alt="Captura de Tela 2024-08-05 às 14 45 30" src="https://github.com/user-attachments/assets/83a59e99-8b17-4948-82c8-587fc6e280ba">
+<img width="1433" alt="Captura de Tela 2024-08-05 às 14 45 46" src="https://github.com/user-attachments/assets/e8938c6c-854e-4cfd-a628-44886df77860">
+<img width="1434" alt="Captura de Tela 2024-08-05 às 14 45 55" src="https://github.com/user-attachments/assets/360233d6-119b-4520-a374-ecf28fbe5e44">
+<img width="1436" alt="Captura de Tela 2024-08-05 às 14 46 00" src="https://github.com/user-attachments/assets/cfc489ed-9366-4c9d-ba52-6787cd3bfc0a">
